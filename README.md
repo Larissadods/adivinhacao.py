@@ -1,2 +1,3 @@
 # Jogo de adivinhação
-Python: começando com a linguagem
+Curso do [Alura](https://www.alura.com.br);
+- Python: começando com a linguagem
