@@ -1,2 +1,2 @@
-# adivinha-o.py
+# Jogo de adivinhação
 Python: começando com a linguagem
